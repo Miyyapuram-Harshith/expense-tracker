@@ -10,5 +10,6 @@ def show_expenses():
 add_expense(500)
 add_expense(200)
 add_expense(300)
+add_expense(400)
 
 show_expenses()
